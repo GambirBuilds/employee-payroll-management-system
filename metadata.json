@@ -1,0 +1,6 @@
+{
+  "name": "Java Employee & Payroll Management System",
+  "description": "A complete core Java terminal backend application with OOP hierarchy, Collections, JDBC persistence, interactive CLI emulator, and exportable Maven project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
